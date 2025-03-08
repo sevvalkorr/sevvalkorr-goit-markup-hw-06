@@ -545,6 +545,9 @@ body {
 .modal-inputs {
   margin-bottom: 8px;
 }
+.modal-inputs-text{
+  margin-bottom: 16px;
+}
 .modal-checkbox-div {
   margin-bottom: 24px;
 }
