@@ -630,7 +630,7 @@ body {
 .modal-checkbox-input:checked + label .check-box {
   background-color: #404bbf;
   border: none;
-  fill: #f4f4f4;
+  fill: #f4f4fd;
 }
 .privacy-policy {
   color: #4d5ae5;
